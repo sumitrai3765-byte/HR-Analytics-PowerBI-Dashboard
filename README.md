@@ -6,7 +6,7 @@ department trends, and workforce insights.
 
 ## Key Insights
 - Total employees: 1,470
-- Attrition rate: 16%
+- Attrition rate: .16%
 - R&D department has the highest attrition
 - Age group 25–34 leaves most often
 
